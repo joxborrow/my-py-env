@@ -1,0 +1,80 @@
+name: my-py-env
+channels:
+  - conda-forge
+dependencies:
+  #################################################
+  # System & Environment
+  #################################################
+  - pip
+  - jupyter
+  - python-dotenv
+  - deltalake
+  - pyarrow
+  - pylint
+  #################################################
+  # Data Munging & Validation
+  #################################################
+  - pandas
+  - snowflake-snowpark-python
+  - pandera
+  - miceforest
+  #################################################
+  # Data Acquisition
+  #################################################
+  - requests
+  - pyodbc
+  - sqlalchemy
+  #################################################
+  # Exploratory Data Analysis
+  #################################################
+  - sweetviz
+  #################################################
+  # ML, Modeling, & Analytics
+  #################################################
+  - statsmodels
+  - scipy
+  - patsy
+  - numpy
+  - scikit-learn
+  - sktime
+  - igraph
+  - networkx
+  - nltk
+  - quantecon
+  #################################################
+  # Visualization & Reporting
+  #################################################
+  - altair
+  - bokeh
+  - quarto
+  - matplotlib
+  - itables
+  - seaborn
+  - missingno
+  - plotnine
+  - patchworklib
+  #################################################
+  # GUIs and Webapps
+  #################################################
+  - streamlit
+  #################################################
+  # Diagrams, etc.
+  #################################################
+  - mermaid-py
+  - graphviz
+  - diagrams
+  #################################################
+  # Misc
+  #################################################
+  - pillow
+  - ffmpeg-python
+  - xlsxwriter
+  - openpyxl
+  - sympy
+  - ffmpeg-python
+  #################################################
+  - pip:
+    - pyskim
+    - polars[all]
+
+prefix: /home/jonathan/miniforge3/envs/my-py-env
