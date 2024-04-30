@@ -24,6 +24,7 @@ dependencies:
   - requests
   - pyodbc
   - sqlalchemy
+  - faker
   #################################################
   # Exploratory Data Analysis
   #################################################

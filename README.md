@@ -76,6 +76,7 @@ added, please feel free to submit a pull request.
 | [xlsxwriter](https://xlsxwriter.readthedocs.io/)                                                | Module that can be used to write text, numbers, formulas and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file. It supports features such as formatting and much more. |
 | [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)                                | Library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.                                                                                                                        |
 | [json](https://docs.python.org/3/library/json.html#module-json)\*                               | manage JSON files                                                                                                                                                                  |
+| [faker](https://faker.readthedocs.io/en/master/#how-to-use-with-factory-boy)                    | Generates fake data                                                                                                                                                                |
 
 ### Data Munging & Validation
 
