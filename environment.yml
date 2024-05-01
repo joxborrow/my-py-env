@@ -79,5 +79,7 @@ dependencies:
   - pip:
     - pyskim
     - polars[all]
+    - tensorflow
+    - keras
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
