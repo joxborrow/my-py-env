@@ -37,7 +37,7 @@ dependencies:
   - patsy
   - numpy
   - scikit-learn
-  - keras
+  #- keras
   - tensorflow
   - sktime
   - igraph
