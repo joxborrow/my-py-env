@@ -38,7 +38,7 @@ dependencies:
   - numpy
   - scikit-learn
   #- keras
-  - tensorflow
+  #- tensorflow
   - sktime
   - igraph
   - networkx
