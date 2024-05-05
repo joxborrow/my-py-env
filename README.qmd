@@ -12,9 +12,8 @@ This "manual" is organized by topic. If you feel something should be added, plea
 
 ### Programming Modules
 
-|                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|---------------------|---------------------------------------------------|
-| **Module**                                                                    | **Description**                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Module                                                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                        |
+|----------------------|--------------------------------------------------|
 | [argparse](https://docs.python.org/3/library/argparse.html#module-argparse)\* | Makes it easy to write user-friendly command-line interfaces                                                                                                                                                                                                                                                                                                                                                       |
 | [re](https://docs.python.org/3/library/re.html#module-re)\*                   | Provides regular expression matching operations similar to those found in Perl                                                                                                                                                                                                                                                                                                                                     |
 | [smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib)\*    | Defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon                                                                                                                                                                                                                                                                                  |
@@ -24,7 +23,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 #### Data compression
 
 | Module                                                                     | Description                                                                                                            |
-|----------------------------|-------------------------------------------|
+|-----------------------------|-------------------------------------------|
 | [zlib](https://docs.python.org/3/library/zlib.html#module-zlib)\*          | Functions in this module allow compression and decompression, using the zlib library.                                  |
 | [gzip](https://docs.python.org/3/library/gzip.html#module-gzip)\*          | Provides a simple interface to compress and decompress files just like the GNU programs gzip and gunzip.               |
 | [bz2](https://docs.python.org/3/library/bz2.html#module-bz2)\*             | Provides a comprehensive interface for compressing and decompressing data using the bzip2 compression algorithm.       |
@@ -35,7 +34,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 #### Performance Management & Profiling
 
 | Module                                                                    | Description                                                                                                                                                                                                                                                                                           |
-|----------------------|--------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)     | A simple way to time small bits of Python code.                                                                                                                                                                                                                                                       |
 | [profile](https://docs.python.org/3/library/profile.html#module-profile)  | A pure Python module whose interface is imitated by [`cProfile`](https://docs.python.org/3/library/profile.html#module-cProfile "cProfile"), but which adds significant overhead to profiled programs. If you’re trying to extend the profiler in some way, the task might be easier with this module |
 | [cProfile](https://docs.python.org/3/library/profile.html#module-profile) | A C extension with reasonable overhead that makes it suitable for profiling long-running programs. Based on `lsprof.`                                                                                                                                                                                 |
@@ -131,7 +130,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 ### Diagrams and Technical Drawings
 
 | Modules                                                     | Description                                                                                                                                                                                         |
-|-----------------------|-------------------------------------------------|
+|------------------------|------------------------------------------------|
 | [mermaid-py](https://github.com/ouhammmourachid/mermaid-py) | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams                                                                                      |
 | [graphviz](https://github.com/xflr6/graphviz)               | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
 | [diagrams](https://diagrams.mingrammer.com/)                | Draw the cloud system architecture in Python code.                                                                                                                                                  |
