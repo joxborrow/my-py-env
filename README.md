@@ -15,58 +15,14 @@ added, please feel free to submit a pull request.
 
 ### Programming Modules
 
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 83%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Module</p>
-<pre><code>- tensorflow
-- keras</code></pre></th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><a
-href="https://docs.python.org/3/library/argparse.html#module-argparse">argparse</a>*</td>
-<td>Makes it easy to write user-friendly command-line interfaces</td>
-</tr>
-<tr class="even">
-<td><a
-href="https://docs.python.org/3/library/re.html#module-re">re</a>*</td>
-<td>Provides regular expression matching operations similar to those
-found in Perl</td>
-</tr>
-<tr class="odd">
-<td><a
-href="https://docs.python.org/3/library/smtplib.html#module-smtplib">smtplib</a>*</td>
-<td>Defines an SMTP client session object that can be used to send mail
-to any internet machine with an SMTP or ESMTP listener daemon</td>
-</tr>
-<tr class="even">
-<td><a
-href="https://docs.python.org/3/library/datetime.html#module-datetime">datetime</a>*</td>
-<td>Supplies classes for manipulating dates and times</td>
-</tr>
-<tr class="odd">
-<td><a
-href="https://docs.python.org/3/library/collections.html#">collections</a>*</td>
-<td>Implements specialized container datatypes providing alternatives to
-Python’s general purpose built-in containers, <a
-href="https://docs.python.org/3/library/stdtypes.html#dict"
-title="dict"><code>dict</code></a>, <a
-href="https://docs.python.org/3/library/stdtypes.html#list"
-title="list"><code>list</code></a>, <a
-href="https://docs.python.org/3/library/stdtypes.html#set"
-title="set"><code>set</code></a>, and <a
-href="https://docs.python.org/3/library/stdtypes.html#tuple"
-title="tuple"><code>tuple</code></a>.</td>
-</tr>
-</tbody>
-</table>
+|                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                    |             |     |
+|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|
+| **Module**                                                                    | Description                                                                                                                                                                                                                                                                                                                                                                                                        | Description |     |
+| [argparse](https://docs.python.org/3/library/argparse.html#module-argparse)\* | Makes it easy to write user-friendly command-line interfaces                                                                                                                                                                                                                                                                                                                                                       |             |     |
+| [re](https://docs.python.org/3/library/re.html#module-re)\*                   | Provides regular expression matching operations similar to those found in Perl                                                                                                                                                                                                                                                                                                                                     |             |     |
+| [smtplib](https://docs.python.org/3/library/smtplib.html#module-smtplib)\*    | Defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon                                                                                                                                                                                                                                                                                  |             |     |
+| [datetime](https://docs.python.org/3/library/datetime.html#module-datetime)\* | Supplies classes for manipulating dates and times                                                                                                                                                                                                                                                                                                                                                                  |             |     |
+| [collections](https://docs.python.org/3/library/collections.html#)\*          | Implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, [`dict`](https://docs.python.org/3/library/stdtypes.html#dict "dict"), [`list`](https://docs.python.org/3/library/stdtypes.html#list "list"), [`set`](https://docs.python.org/3/library/stdtypes.html#set "set"), and [`tuple`](https://docs.python.org/3/library/stdtypes.html#tuple "tuple"). |             |     |
 
 #### Data compression
 
