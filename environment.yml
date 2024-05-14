@@ -41,7 +41,6 @@ dependencies:
   - numpy
   - scikit-learn
   - sktime
-  - igraph
   - networkx
   - nltk
   - quantecon
@@ -81,5 +80,6 @@ dependencies:
   - pip:
     - pyskim
     - polars[all]
+    - igraph
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
