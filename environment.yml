@@ -8,6 +8,7 @@ dependencies:
   - pip
   - jupyter
   - python-dotenv
+  - pycairo
   - deltalake
   - pyarrow
   - pylint
