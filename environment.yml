@@ -45,6 +45,7 @@ dependencies:
   - networkx
   - nltk
   - quantecon
+  - spectrum
   #################################################
   # Visualization & Reporting
   #################################################
