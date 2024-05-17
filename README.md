@@ -1,22 +1,15 @@
-
 # MY-PY-ENV
 
-A long time ago in a galaxy far, far away there were
-statistical/programming packages where individual packages did not need
-to be individually installed and loaded. This environment file is meant
-to be a collection of common packages for analysis and data science.
-This README is meant to be the manual, linking to the documentation for
-each key package.
+A long time ago in a galaxy far, far away there were statistical/programming packages where individual packages did not need to be individually installed and loaded. This environment file is meant to be a collection of common packages for analysis and data science. This README is meant to be the manual, linking to the documentation for each key package.
 
-This “manual” is organized by topic. If you feel something should be
-added, please feel free to submit a pull request.
+This “manual” is organized by topic. If you feel something should be added, please feel free to submit a pull request.
 
 ## Environment Documentation
 
 ### Programming Modules
 
 | Module                                                                                        | Description                                                                                                                                                                                                                                                                                                                                                                                                        |
-|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | [argparse](https://docs.python.org/3/library/argparse.html#module-argparse)\*                 | Makes it easy to write user-friendly command-line interfaces                                                                                                                                                                                                                                                                                                                                                       |
 | [click](https://click.palletsprojects.com/en/8.1.x/)                                          | Package for creating beautiful command line interfaces in a composable way with as little code as necessary.                                                                                                                                                                                                                                                                                                       |
 | [alive-progress](https://github.com/rsalmei/alive-progress?tab=readme-ov-file#alive-progress) | Beautiful progress bars in python.                                                                                                                                                                                                                                                                                                                                                                                 |
@@ -29,7 +22,7 @@ added, please feel free to submit a pull request.
 #### Data compression
 
 | Module                                                                     | Description                                                                                                            |
-|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+|----------------------------|--------------------------------------------|
 | [zlib](https://docs.python.org/3/library/zlib.html#module-zlib)\*          | Functions in this module allow compression and decompression, using the zlib library.                                  |
 | [gzip](https://docs.python.org/3/library/gzip.html#module-gzip)\*          | Provides a simple interface to compress and decompress files just like the GNU programs gzip and gunzip.               |
 | [bz2](https://docs.python.org/3/library/bz2.html#module-bz2)\*             | Provides a comprehensive interface for compressing and decompressing data using the bzip2 compression algorithm.       |
@@ -40,7 +33,7 @@ added, please feel free to submit a pull request.
 #### Performance Management & Profiling
 
 | Module                                                                    | Description                                                                                                                                                                                                                                                                                           |
-|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------|-------------------------------------------------------|
 | [timeit](https://docs.python.org/3/library/timeit.html#module-timeit)     | A simple way to time small bits of Python code.                                                                                                                                                                                                                                                       |
 | [profile](https://docs.python.org/3/library/profile.html#module-profile)  | A pure Python module whose interface is imitated by [`cProfile`](https://docs.python.org/3/library/profile.html#module-cProfile "cProfile"), but which adds significant overhead to profiled programs. If you’re trying to extend the profiler in some way, the task might be easier with this module |
 | [cProfile](https://docs.python.org/3/library/profile.html#module-profile) | A C extension with reasonable overhead that makes it suitable for profiling long-running programs. Based on `lsprof.`                                                                                                                                                                                 |
@@ -49,14 +42,14 @@ added, please feel free to submit a pull request.
 #### Quality Control
 
 | Module                                                                      | Description                                                                                                                                                                            |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | [doctest](https://docs.python.org/3/library/doctest.html#module-doctest)    | Searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown. Form of unit testing in docstrings |
 | [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) | Unit testing framework                                                                                                                                                                 |
 
 ### System & Environment
 
 | Package                                                                 | Description                                                                                                                                                                              |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | [os](https://docs.python.org/3/library/os.html#module-os)\*             | Provides a portable way of using operating system dependent functionality                                                                                                                |
 | [sys](https://docs.python.org/3/library/sys.html#module-sys)\*          | Provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter.                                                    |
 | [shutil](https://docs.python.org/3/library/shutil.html#module-shutil)\* | Offers a number of high-level operations on files and collections of files. In particular, functions are provided which support file copying and removal.                                |
@@ -70,7 +63,7 @@ added, please feel free to submit a pull request.
 ### Data Input and Output
 
 | Package                                                                                         | Description                                                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------|----------------------------------------------|
 | [requests](https://requests.readthedocs.io/en/latest/)                                          | an elegant and simple HTTP library for Python, built for human beings                                                                                                              |
 | [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)\* | Defines functions and classes which help in opening URLs                                                                                                                           |
 | [pyodbc](https://github.com/mkleehammer/pyodbc/wiki)                                            | an open source Python module that makes accessing ODBC databases simple                                                                                                            |
@@ -85,7 +78,7 @@ added, please feel free to submit a pull request.
 ### Data Munging & Validation
 
 | Package                                                                                          | Description                         |
-|--------------------------------------------------------------------------------------------------|-------------------------------------|
+|----------------------------------------------------|--------------------|
 | [polars\[all\]](https://docs.pola.rs/) - [🗒️](assets/Polars_cheat_sheet.pdf "Cheatsheet")        | Embarassingly parallel data munging |
 | [pandas](https://pandas.pydata.org/docs/)                                                        | data munging                        |
 | [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index) | data munging in Snowflake           |
@@ -95,14 +88,14 @@ added, please feel free to submit a pull request.
 ### Exploratory Data Analysis (EDA)
 
 | Package                                             | Description                                                                                        |
-|-----------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|-------------------------|-----------------------------------------------|
 | [pyskim](https://github.com/kpj/pyskim)             | a package for EDA at the commandline                                                               |
 | [sweetviz](https://github.com/fbdesignpro/sweetviz) | Open-source Python library that generates beautiful, high-density visualizations to kickstart EDA. |
 
 ### Math, Statistics, ML, & Data Analytics
 
 | Module                                                                              | Submodule                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------|---------------|-------------------------------------------|
 | [math](https://docs.python.org/3/library/math.html#module-math)\*                   |                                                                                             | Provides access to the mathematical functions defined by the C standard. Part of the python standard library.                                                                                                                                                                                                                                                          |
 | [sympy](https://docs.sympy.org/latest/index.html)                                   |                                                                                             | Library for symbolic mathematics                                                                                                                                                                                                                                                                                                                                       |
 | [statistics](https://docs.python.org/3/library/statistics.html#module-statistics)\* |                                                                                             | Provides functions for calculating mathematical statistics of numeric real valued data. Part of the python standard library                                                                                                                                                                                                                                            |
@@ -123,12 +116,12 @@ added, please feel free to submit a pull request.
 | [nltk](https://www.nltk.org/)                                                       |                                                                                             | A leading platform for building Python programs to work with human language data                                                                                                                                                                                                                                                                                       |
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/)                          |                                                                                             | Open source python library for economic modeling                                                                                                                                                                                                                                                                                                                       |
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/)                         |                                                                                             | A Python library for off-line change point detection                                                                                                                                                                                                                                                                                                                   |
-| [spectrum](https://pyspectrum.readthedocs.io/en/latest/#)                           |                                                                                             | is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis                                                                                                                                                                                                                    |
+| [spectrum](https://pyspectrum.readthedocs.io/en/latest/#)                           |                                                                                             | A Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis                                                                                                                                                                                                                       |
 
 ### Visualization & Reporting
 
 | Module                                                               | Description                                                                                                                                               |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------|-------------------------------------------------|
 | [altair](https://altair-viz.github.io/getting_started/overview.html) | A declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite). |
 | [matplotlib](https://matplotlib.org/stable/index.html)               | Comprehensive library for creating static, animated, and interactive visualizations                                                                       |
 | [seaborn](https://seaborn.pydata.org/)                               | Provides a high-level interface for drawing attractive and informative statistical graphics.                                                              |
@@ -141,7 +134,7 @@ added, please feel free to submit a pull request.
 ### Diagrams and Technical Drawings
 
 | Modules                                                     | Description                                                                                                                                                                                         |
-|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | [mermaid-py](https://github.com/ouhammmourachid/mermaid-py) | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams                                                                                      |
 | [graphviz](https://github.com/xflr6/graphviz)               | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
 | [diagrams](https://diagrams.mingrammer.com/)                | Draw the cloud system architecture in Python code.                                                                                                                                                  |
@@ -149,7 +142,7 @@ added, please feel free to submit a pull request.
 ### Image & Video
 
 | Modules                                                     | Description                                                    |
-|-------------------------------------------------------------|----------------------------------------------------------------|
+|-----------------------------------|-------------------------------------|
 | [pillow](https://pillow.readthedocs.io/en/stable/)          | adds image processing capabilities to your Python interpreter. |
 | [ffmpeg-python](https://kkroening.github.io/ffmpeg-python/) | Use ffmpeg from python.                                        |
 
