@@ -18,6 +18,7 @@ dependencies:
   # Data Munging & Validation
   #################################################
   - pandas
+  - python-duckdb
   - snowflake-snowpark-python
   - pandera
   - miceforest

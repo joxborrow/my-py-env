@@ -89,6 +89,7 @@ added, please feel free to submit a pull request.
 |--------------------------------------------------------------------------------------------------|-------------------------------------|
 | [polars\[all\]](https://docs.pola.rs/) - [🗒️](assets/Polars_cheat_sheet.pdf "Cheatsheet")        | Embarassingly parallel data munging |
 | [pandas](https://pandas.pydata.org/docs/)                                                        | data munging                        |
+| [duckdb](https://duckdb.org/docs/api/python/overview)                                            | Fast in process analytical database |
 | [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index) | data munging in Snowflake           |
 | [pandera](https://pandera.readthedocs.io/en/latest/)                                             | data validation                     |
 | [miceforest](https://miceforest.readthedocs.io/en/latest/)                                       | Impute missing values               |
