@@ -28,6 +28,7 @@ dependencies:
   - pyodbc
   - sqlalchemy
   - faker
+  - holidays
   #################################################
   # Exploratory Data Analysis
   #################################################

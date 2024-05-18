@@ -78,6 +78,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html)                                | Library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.                                                                                                                        |
 | [json](https://docs.python.org/3/library/json.html#module-json)\*                               | manage JSON files                                                                                                                                                                  |
 | [faker](https://faker.readthedocs.io/en/master/#how-to-use-with-factory-boy)                    | Generates fake data                                                                                                                                                                |
+| [holidays](https://python-holidays.readthedocs.io/en/latest/)                                   | A fast, efficient Python library for generating country- and subdivision- (e.g. state or province) specific sets of government-designated holidays on the fly.                     |
 
 ### Data Munging & Validation
 
