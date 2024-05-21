@@ -52,7 +52,7 @@ dependencies:
   #################################################
   # Visualization & Reporting
   #################################################
-  - altair
+  - altair-all
   - bokeh
   - quarto
   - matplotlib
