@@ -84,5 +84,6 @@ dependencies:
   - pip:
     - pyskim
     - polars[all]
+    - great_tables
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env

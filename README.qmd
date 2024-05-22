@@ -125,16 +125,17 @@ This "manual" is organized by topic. If you feel something should be added, plea
 
 ### Visualization & Reporting
 
-| Module                                                               | Description                                                                                                                                               |
+| Module                                                                       | Description                                                                                                                                               |
 |-------------------------|-----------------------------------------------|
-| [altair](https://altair-viz.github.io/getting_started/overview.html) | A declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite). |
-| [matplotlib](https://matplotlib.org/stable/index.html)               | Comprehensive library for creating static, animated, and interactive visualizations                                                                       |
-| [seaborn](https://seaborn.pydata.org/)                               | Provides a high-level interface for drawing attractive and informative statistical graphics.                                                              |
-| [plotnine](https://plotnine.org/)                                    | An implementation of a *grammar of graphics* in Python based on [ggplot2](https://ggplot2.tidyverse.org/).                                                |
-| [patchworklib](https://github.com/ponnhide/patchworklib)             | A universal composer of matplotlib-related plots (simple matplotlib plots, Seaborn plots (both axis-level and figure-level), and plotnine plots).         |
-| [itables](https://mwouts.github.io/itables/quick_start.html#)        | Display your tables as interactive [DataTables](https://datatables.net/) that you can sort, paginate, scroll or filter.                                   |
-| [missingno](https://github.com/ResidentMario/missingno)              | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
-| [quarto](https://quarto.org/)                                        | An open-source scientific and technical publishing system                                                                                                 |
+| [altair](https://altair-viz.github.io/getting_started/overview.html)         | A declarative statistical visualization library for Python, based on [Vega](http://vega.github.io/vega) and [Vega-Lite](http://vega.github.io/vega-lite). |
+| [matplotlib](https://matplotlib.org/stable/index.html)                       | Comprehensive library for creating static, animated, and interactive visualizations                                                                       |
+| [seaborn](https://seaborn.pydata.org/)                                       | Provides a high-level interface for drawing attractive and informative statistical graphics.                                                              |
+| [plotnine](https://plotnine.org/)                                            | An implementation of a *grammar of graphics* in Python based on [ggplot2](https://ggplot2.tidyverse.org/).                                                |
+| [patchworklib](https://github.com/ponnhide/patchworklib)                     | A universal composer of matplotlib-related plots (simple matplotlib plots, Seaborn plots (both axis-level and figure-level), and plotnine plots).         |
+| [itables](https://mwouts.github.io/itables/quick_start.html#)                | Display your tables as interactive html [DataTables](https://datatables.net/) that you can sort, paginate, scroll or filter.                              |
+| [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python                                                                                                       |
+| [missingno](https://github.com/ResidentMario/missingno)                      | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
+| [quarto](https://quarto.org/)                                                | An open-source scientific and technical publishing system                                                                                                 |
 
 ### Diagrams and Technical Drawings
 
