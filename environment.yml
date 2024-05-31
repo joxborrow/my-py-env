@@ -55,7 +55,7 @@ dependencies:
   - sktime
   - statsforecast
   - mlforecast
-  #- neuralforecast
+  - neuralforecast
   #- hierarchicalforecast
   #- utilsforecast
   #- datasetsforecast
