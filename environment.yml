@@ -49,6 +49,19 @@ dependencies:
   - quantecon
   - ruptures
   - spectrum
+
+  #################################################
+  # Forecasting
+  #################################################
+  - sktime
+  - statsforecast
+  - mlforecast
+  - neuralforecast
+  - hierarchicalforecast
+  - utilsforecast
+  - datasetsforecast
+
+
   #################################################
   # Visualization & Reporting
   #################################################
