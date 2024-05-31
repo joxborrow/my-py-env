@@ -42,7 +42,6 @@ dependencies:
   - patsy
   - numpy
   - scikit-learn
-  - sktime
   - igraph
   - networkx
   - nltk
@@ -55,12 +54,11 @@ dependencies:
   #################################################
   - sktime
   - statsforecast
-  - mlforecast
-  - neuralforecast
-  - hierarchicalforecast
-  - utilsforecast
-  - datasetsforecast
-
+  #- mlforecast
+  #- neuralforecast
+  #- hierarchicalforecast
+  #- utilsforecast
+  #- datasetsforecast
 
   #################################################
   # Visualization & Reporting
@@ -82,7 +80,7 @@ dependencies:
   # Diagrams, etc.
   #################################################
   - mermaid-py
-  - graphviz
+  - pygraphviz
   - diagrams
   #################################################
   # Misc
