@@ -56,7 +56,7 @@ dependencies:
   - statsforecast
   - mlforecast
   - neuralforecast
-  #- hierarchicalforecast
+  - hierarchicalforecast
   #- utilsforecast
   #- datasetsforecast
 
