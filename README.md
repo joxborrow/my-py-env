@@ -130,12 +130,11 @@ added, please feel free to submit a pull request.
 
 ## Time Series
 
-| Module                                                                    | Submodule | Descriptions                                                                                                     |
-|---------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------|
-| [sktime](https://www.sktime.net/en/latest/index.html)                     |           | A unified framework for machine learning with time series                                                        |
-| [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html)   |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
-| [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)         |           | Scalable machine learning for time series forecasting                                                            |
-| [neuralforecast](https://nixtlaverse.nixtla.io/neuralforecast/index.html) |           | A large collection of neural forecasting models focused on their usability, and robustness                       |
+| Module                                                                  | Submodule | Descriptions                                                                                                     |
+|-------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------|
+| [sktime](https://www.sktime.net/en/latest/index.html)                   |           | A unified framework for machine learning with time series                                                        |
+| [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html) |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
+| [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)       |           | Scalable machine learning for time series forecasting                                                            |
 
 ### Visualization & Reporting
 
