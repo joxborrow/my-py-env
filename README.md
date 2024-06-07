@@ -2,6 +2,8 @@
 
 # MY-PY-ENV
 
+![](https://img.shields.io/github/actions/workflow/status/joxborrow/my-py-env/test-jto-env.yml)
+
 A long time ago in a galaxy far, far away there were
 statistical/programming packages where individual packages did not need
 to be individually installed and loaded. This environment file is meant

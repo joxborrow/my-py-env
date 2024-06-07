@@ -4,6 +4,8 @@ format: gfm
 
 # MY-PY-ENV
 
+![](https://img.shields.io/github/actions/workflow/status/joxborrow/my-py-env/test-jto-env.yml)
+
 A long time ago in a galaxy far, far away there were statistical/programming packages where individual packages did not need to be individually installed and loaded. This environment file is meant to be a collection of common packages for analysis and data science. This README is meant to be the manual, linking to the documentation for each key package.
 
 This "manual" is organized by topic. If you feel something should be added, please feel free to submit a pull request.
@@ -101,7 +103,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 ### Math, Statistics, ML, & Data Analytics
 
 | Module                                                                              | Submodule                                                                                   | Description                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------|-------------------|-----------------------------------|
+|-------------------|-------------------|----------------------------------|
 | [math](https://docs.python.org/3/library/math.html#module-math)\*                   |                                                                                             | Provides access to the mathematical functions defined by the C standard. Part of the python standard library.                                                                                                                                                                                                                                                          |
 | [sympy](https://docs.sympy.org/latest/index.html)                                   |                                                                                             | Library for symbolic mathematics                                                                                                                                                                                                                                                                                                                                       |
 | [statistics](https://docs.python.org/3/library/statistics.html#module-statistics)\* |                                                                                             | Provides functions for calculating mathematical statistics of numeric real valued data. Part of the python standard library                                                                                                                                                                                                                                            |
@@ -125,7 +127,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 ## Time Series
 
 | Module                                                                    | Submodule | Descriptions                                                                                                     |
-|-------------------|------------------|----------------------------------|
+|--------------------|-------------------|---------------------------------|
 | [sktime](https://www.sktime.net/en/latest/index.html)                     |           | A unified framework for machine learning with time series                                                        |
 | [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html)   |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
 | [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)         |           | Scalable machine learning for time series forecasting                                                            |
