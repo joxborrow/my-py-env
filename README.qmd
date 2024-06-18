@@ -145,6 +145,8 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python                                                                                                       |
 | [missingno](https://github.com/ResidentMario/missingno)                      | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
 | [quarto](https://quarto.org/)                                                | An open-source scientific and technical publishing system                                                                                                 |
+| datashader                                                                   |                                                                                                                                                           |
+| colorcet                                                                     |                                                                                                                                                           |
 
 ### Diagrams and Technical Drawings
 
