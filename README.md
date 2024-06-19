@@ -149,8 +149,9 @@ added, please feel free to submit a pull request.
 | [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python                                                                                                       |
 | [missingno](https://github.com/ResidentMario/missingno)                      | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
 | [quarto](https://quarto.org/)                                                | An open-source scientific and technical publishing system                                                                                                 |
-| datashader                                                                   |                                                                                                                                                           |
-| colorcet                                                                     |                                                                                                                                                           |
+| [datashader](https://datashader.org/index.html)                              | A graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.                                                |
+| [colorcet](https://colorcet.holoviz.org/)                                    | A collection of perceptually accurate 256-color colormaps for use with Python plotting programs.                                                          |
+| [wordcloud](https://github.com/amueller/word_cloud)                          | A little word cloud generator in Python.                                                                                                                  |
 
 ### Diagrams and Technical Drawings
 
