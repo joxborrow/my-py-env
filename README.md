@@ -149,6 +149,8 @@ added, please feel free to submit a pull request.
 | [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python                                                                                                       |
 | [missingno](https://github.com/ResidentMario/missingno)                      | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                     |
 | [quarto](https://quarto.org/)                                                | An open-source scientific and technical publishing system                                                                                                 |
+| datashader                                                                   |                                                                                                                                                           |
+| colorcet                                                                     |                                                                                                                                                           |
 
 ### Diagrams and Technical Drawings
 
