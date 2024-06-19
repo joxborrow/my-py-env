@@ -42,7 +42,7 @@ dependencies:
   - patsy
   - numpy
   - scikit-learn
-  - igraph
+  - python-igraph
   - networkx
   - nltk
   - quantecon
