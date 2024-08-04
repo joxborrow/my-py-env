@@ -102,5 +102,7 @@ dependencies:
     - pyskim
     - polars[all]
     - great_tables
+    - hiveplotlib
+    - hiveplotlib[datashader]
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
