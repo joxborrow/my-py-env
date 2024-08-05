@@ -148,6 +148,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [datashader](https://datashader.org/index.html)                              | A graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.                                                |
 | [colorcet](https://colorcet.holoviz.org/)                                    | A collection of perceptually accurate 256-color colormaps for use with Python plotting programs.                                                          |
 | [wordcloud](https://github.com/amueller/word_cloud)                          | A little word cloud generator in Python.                                                                                                                  |
+| [hiveplotlib](https://hiveplotlib.readthedocs.io/stable/index.html)          | Generate well-defined figures, allowing for reliable, visual explorations of network data. It avoids "hairball" plots.                                    |
 
 ### Diagrams and Technical Drawings
 
