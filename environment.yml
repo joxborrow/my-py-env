@@ -67,6 +67,9 @@ dependencies:
   # Visualization & Reporting
   #################################################
   - altair-all
+  - vegafusion
+  - vegafusion-python-embed
+  - vl-convert-python
   - bokeh
   - quarto
   - matplotlib
