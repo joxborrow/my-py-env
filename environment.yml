@@ -67,6 +67,7 @@ dependencies:
   # Visualization & Reporting
   #################################################
   - altair-all
+  - holoviews
   - bokeh
   - quarto
   - matplotlib
