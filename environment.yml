@@ -22,7 +22,6 @@ dependencies:
   - python-duckdb
   - ibis-duckdb
  # - ibis-polars
-  - ibis-examples
   - ibis-snowflake
   - snowflake-snowpark-python
   - pandera
