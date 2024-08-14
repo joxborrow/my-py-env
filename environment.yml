@@ -103,6 +103,7 @@ dependencies:
     - pyskim
     - polars[all]
     - ibis-framework[duckdb]
+    - ibis-framework[snowflake]
     - great_tables
     - hiveplotlib
     - hiveplotlib[datashader]
