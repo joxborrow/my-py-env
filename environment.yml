@@ -20,9 +20,6 @@ dependencies:
   #################################################
   - pandas
   - python-duckdb
-  - ibis-duckdb
- # - ibis-polars
-  - ibis-snowflake
   - snowflake-snowpark-python
   - pandera
   - miceforest
@@ -105,6 +102,7 @@ dependencies:
   - pip:
     - pyskim
     - polars[all]
+    - ibis-framework[duckdb]
     - great_tables
     - hiveplotlib
     - hiveplotlib[datashader]
