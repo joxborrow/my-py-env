@@ -64,11 +64,12 @@ added, please feel free to submit a pull request.
 | [sys](https://docs.python.org/3/library/sys.html#module-sys)\* | Provides access to some variables used or maintained by the interpreter and to functions that interact strongly with the interpreter. |
 | [shutil](https://docs.python.org/3/library/shutil.html#module-shutil)\* | Offers a number of high-level operations on files and collections of files. In particular, functions are provided which support file copying and removal. |
 | [glob](https://docs.python.org/3/library/glob.html#module-glob)\* | Finds all the pathnames matching a specified pattern according to the rules used by the Unix shell |
-| [pip](https://pip.pypa.io/en/stable/index.html) | package installer for python |
-| [pycairo](https://pycairo.readthedocs.io/en/latest/) | python library to provide bindings for the cairo graphics library |
-| [jupyter](https://docs.jupyter.org/en/latest/) | interactive environment for computing |
-| [python-dotenv](https://saurabh-kumar.com/python-dotenv/) | read key-value pairs from a `.env` file and can set them as environment variables |
-| [pylint](https://www.pylint.org/) | analyses your code without actually running it. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored |
+| [pip](https://pip.pypa.io/en/stable/index.html) | Package installer for python |
+| [pycairo](https://pycairo.readthedocs.io/en/latest/) | Python library to provide bindings for the cairo graphics library |
+| [jupyter](https://docs.jupyter.org/en/latest/) | Interactive environment for computing |
+| [python-dotenv](https://saurabh-kumar.com/python-dotenv/) | Rad key-value pairs from a `.env` file and can set them as environment variables |
+| [pylint](https://www.pylint.org/) | Analyses your code without actually running it. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored |
+| [numba](https://numba.readthedocs.io/en/stable/index.html) | A compiler for Python array and numerical functions that gives you the power to speed up your applications with high performance functions written directly in Python. |
 
 ### Data Input and Output
 
