@@ -92,6 +92,7 @@ added, please feel free to submit a pull request.
 |----|----|
 | [polars\[all\]](https://docs.pola.rs/) - [🗒️](assets/Polars_cheat_sheet.pdf "Cheatsheet") | Embarassingly parallel data munging |
 | [pandas](https://pandas.pydata.org/docs/) | data munging |
+| [ibis](https://ibis-project.org/) | Defines a Python dataframe API that executes on any query engine – the frontend for any backend data platform, with 20+ backends today. |
 | [duckdb](https://duckdb.org/docs/api/python/overview) | Fast in process analytical database. Integrates with polars and other arrow based packages. |
 | [snowflake-snowpark-python](https://docs.snowflake.com/en/developer-guide/snowpark/python/index) | data munging in Snowflake |
 | [pandera](https://pandera.readthedocs.io/en/latest/) | data validation |
@@ -144,6 +145,7 @@ added, please feel free to submit a pull request.
 | [matplotlib](https://matplotlib.org/stable/index.html) | Comprehensive library for creating static, animated, and interactive visualizations |
 | [seaborn](https://seaborn.pydata.org/) | Provides a high-level interface for drawing attractive and informative statistical graphics. |
 | [plotnine](https://plotnine.org/) | An implementation of a *grammar of graphics* in Python based on [ggplot2](https://ggplot2.tidyverse.org/). |
+| [holoviews](https://holoviews.org/) | makes data analysis an viualization seamless and simple. |
 | [patchworklib](https://github.com/ponnhide/patchworklib) | A universal composer of matplotlib-related plots (simple matplotlib plots, Seaborn plots (both axis-level and figure-level), and plotnine plots). |
 | [itables](https://mwouts.github.io/itables/quick_start.html#) | Display your tables as interactive html [DataTables](https://datatables.net/) that you can sort, paginate, scroll or filter. |
 | [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python |
