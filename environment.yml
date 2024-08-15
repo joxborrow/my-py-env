@@ -104,6 +104,7 @@ dependencies:
     - polars[all]
     - ibis-framework[duckdb]
     - ibis-framework[snowflake]
+    - ibis-framework[polars]
     - great_tables
     - hiveplotlib
     - hiveplotlib[datashader]
