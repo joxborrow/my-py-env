@@ -15,6 +15,7 @@ dependencies:
   - alive-progress
   - colorama
   - pycairo
+  - numba
   #################################################
   # Data Munging & Validation
   #################################################
