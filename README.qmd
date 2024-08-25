@@ -10,6 +10,22 @@ A long time ago in a galaxy far, far away there were statistical/programming pac
 
 This "manual" is organized by topic. If you feel something should be added, please feel free to submit a pull request.
 
+## Index
+
+1.  [Programming Modules]
+2.  [Data compression]
+3.  [Performance Management & Profiling]
+4.  [Quality Control]
+5.  [System & Environment]
+6.  [Data Input and Output]
+7.  [Data Munging & Validation]
+8.  [Exploratory Data Analysis (EDA)]
+9.  [Math, Statistics, ML, & Data Analytics]
+10. [Time Series]
+11. [General Visualization & Reporting]
+12. [Graph, Diagrams and Technical Drawing Analysis & Visualization]
+13. [Image & Video]
+
 ## Environment Documentation
 
 ### Programming Modules
@@ -97,10 +113,11 @@ This "manual" is organized by topic. If you feel something should be added, plea
 
 ### Exploratory Data Analysis (EDA)
 
-| Package                                             | Description                                                                                        |
+| Package                                                 | Description                                                                                        |
 |--------------------------|----------------------------------------------|
-| [pyskim](https://github.com/kpj/pyskim)             | a package for EDA at the commandline                                                               |
-| [sweetviz](https://github.com/fbdesignpro/sweetviz) | Open-source Python library that generates beautiful, high-density visualizations to kickstart EDA. |
+| [pyskim](https://github.com/kpj/pyskim)                 | a package for EDA at the commandline                                                               |
+| [sweetviz](https://github.com/fbdesignpro/sweetviz)     | Open-source Python library that generates beautiful, high-density visualizations to kickstart EDA. |
+| [missingno](https://github.com/ResidentMario/missingno) | A small toolset of flexible and easy-to-use missing data visualizations and utilities              |
 
 ### Math, Statistics, ML, & Data Analytics
 
@@ -119,8 +136,6 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [sklearn](https://scikit-learn.org/stable/user_guide.html)                          |                                                                                             | Simple and efficient tools for predictive data analysis, including ML                                                                                                                                                                                                                                                                                                  |
 |                                                                                     | [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)         | Provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators.                                                                                                                                                                                             |
 |                                                                                     | [sklearn.feature_selection](https://scikit-learn.org/stable/modules/feature_selection.html) | Used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets                                                                                                                                                                                      |
-| [igraph](https://python.igraph.org/en/stable/)                                      |                                                                                             | A fast open source python library to analyze graphs/networks                                                                                                                                                                                                                                                                                                           |
-| [networkx](https://networkx.org/documentation/stable/)                              |                                                                                             | A python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.                                                                                                                                                                                                                                              |
 | [nltk](https://www.nltk.org/)                                                       |                                                                                             | A leading platform for building Python programs to work with human language data                                                                                                                                                                                                                                                                                       |
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/)                          |                                                                                             | Open source python library for economic modeling                                                                                                                                                                                                                                                                                                                       |
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/)                         |                                                                                             | A Python library for off-line change point detection                                                                                                                                                                                                                                                                                                                   |
@@ -134,7 +149,7 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html) |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
 | [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)       |           | Scalable machine learning for time series forecasting                                                            |
 
-### Visualization & Reporting
+### General Visualization & Reporting
 
 | Module                                                                       | Description                                                                                                                                                   |
 |--------------------------|----------------------------------------------|
@@ -146,21 +161,23 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [patchworklib](https://github.com/ponnhide/patchworklib)                     | A universal composer of matplotlib-related plots (simple matplotlib plots, Seaborn plots (both axis-level and figure-level), and plotnine plots).             |
 | [itables](https://mwouts.github.io/itables/quick_start.html#)                | Display your tables as interactive html [DataTables](https://datatables.net/) that you can sort, paginate, scroll or filter.                                  |
 | [great_tables](https://posit-dev.github.io/great-tables/articles/intro.html) | absolutely delightful static table making in python                                                                                                           |
-| [missingno](https://github.com/ResidentMario/missingno)                      | A small toolset of flexible and easy-to-use missing data visualizations and utilities                                                                         |
 | [quarto](https://quarto.org/)                                                | An open-source scientific and technical publishing system                                                                                                     |
 | [datashader](https://datashader.org/index.html)                              | A graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.                                                    |
 | [colorcet](https://colorcet.holoviz.org/)                                    | A collection of perceptually accurate 256-color colormaps for use with Python plotting programs.                                                              |
 | [wordcloud](https://github.com/amueller/word_cloud)                          | A little word cloud generator in Python.                                                                                                                      |
-| [hiveplotlib](https://hiveplotlib.readthedocs.io/stable/index.html)          | Generate well-defined figures, allowing for reliable, visual explorations of network data. It avoids "hairball" plots.                                        |
 | [yellowbrick](https://www.scikit-yb.org/en/latest/index.html#)               | Machine Learning Visualization: Extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib. |
 
-### Diagrams and Technical Drawings
+### Graph, Diagrams and Technical Drawing Analysis & Visualization
 
-| Modules                                                     | Description                                                                                                                                                                                         |
+| Modules                                                             | Description                                                                                                                                                                                         |
 |--------------------------|----------------------------------------------|
-| [mermaid-py](https://github.com/ouhammmourachid/mermaid-py) | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams                                                                                      |
-| [graphviz](https://github.com/xflr6/graphviz)               | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
-| [diagrams](https://diagrams.mingrammer.com/)                | Draw the cloud system architecture in Python code.                                                                                                                                                  |
+| [mermaid-py](https://github.com/ouhammmourachid/mermaid-py)         | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams                                                                                      |
+| [igraph](https://python.igraph.org/en/stable/)                      | A fast open source python library to analyze graphs/networks                                                                                                                                        |
+| [pyvis](https://pyvis.readthedocs.io/en/latest/index.html)          | An python library wrapping the [VisJS](https://visjs.org/) javascript library for [network visualization](https://visjs.github.io/vis-network/examples/).                                           |
+| [networkx](https://networkx.org/documentation/stable/)              | A python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.                                                                           |
+| [hiveplotlib](https://hiveplotlib.readthedocs.io/stable/index.html) | Generate well-defined figures, allowing for reliable, visual explorations of network data. It avoids "hairball" plots.                                                                              |
+| [graphviz](https://github.com/xflr6/graphviz)                       | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
+| [diagrams](https://diagrams.mingrammer.com/)                        | Draw the cloud system architecture in Python code.                                                                                                                                                  |
 
 ### Image & Video
 
