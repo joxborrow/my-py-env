@@ -38,6 +38,8 @@ added, please feel free to submit a pull request.
 
 ### Programming Modules
 
+([Index](#index))
+
 | Module | Description |
 |----|----|
 | [argparse](https://docs.python.org/3/library/argparse.html#module-argparse)\* | Makes it easy to write user-friendly command-line interfaces |
@@ -49,7 +51,9 @@ added, please feel free to submit a pull request.
 | [datetime](https://docs.python.org/3/library/datetime.html#module-datetime)\* | Supplies classes for manipulating dates and times |
 | [collections](https://docs.python.org/3/library/collections.html#)\* | Implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers, [`dict`](https://docs.python.org/3/library/stdtypes.html#dict "dict"), [`list`](https://docs.python.org/3/library/stdtypes.html#list "list"), [`set`](https://docs.python.org/3/library/stdtypes.html#set "set"), and [`tuple`](https://docs.python.org/3/library/stdtypes.html#tuple "tuple"). |
 
-#### Data compression
+### Data compression
+
+([Index](#index))
 
 | Module | Description |
 |----|----|
@@ -60,7 +64,9 @@ added, please feel free to submit a pull request.
 | [zipfile](https://docs.python.org/3/library/zipfile.html#module-zipfile)\* | Provides tools to create, read, write, append, and list a ZIP file. |
 | [tarfile](https://docs.python.org/3/library/tarfile.html#module-tarfile)\* | Makes it possible to read and write tar archives, including those using gzip, bz2 and lzma compression. |
 
-#### Performance Management & Profiling
+### Performance Management & Profiling
+
+([Index](#index))
 
 | Module | Description |
 |----|----|
@@ -69,7 +75,9 @@ added, please feel free to submit a pull request.
 | [cProfile](https://docs.python.org/3/library/profile.html#module-profile) | A C extension with reasonable overhead that makes it suitable for profiling long-running programs. Based on `lsprof.` |
 | [pstats](https://docs.python.org/3/library/profile.html#module-pstats) | Formats reports from profile and cProfile modules. |
 
-#### Quality Control
+### Quality Control
+
+([Index](#index))
 
 | Module | Description |
 |----|----|
@@ -77,6 +85,8 @@ added, please feel free to submit a pull request.
 | [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) | Unit testing framework |
 
 ### System & Environment
+
+([Index](#index))
 
 | Package | Description |
 |----|----|
@@ -92,6 +102,8 @@ added, please feel free to submit a pull request.
 | [numba](https://numba.readthedocs.io/en/stable/index.html) | A compiler for Python array and numerical functions that gives you the power to speed up your applications with high performance functions written directly in Python. |
 
 ### Data Input and Output
+
+([Index](#index))
 
 | Package | Description |
 |----|----|
@@ -109,6 +121,8 @@ added, please feel free to submit a pull request.
 
 ### Data Munging & Validation
 
+([Index](#index))
+
 | Package | Description |
 |----|----|
 | [polars\[all\]](https://docs.pola.rs/) - [🗒️](assets/Polars_cheat_sheet.pdf "Cheatsheet") | Embarassingly parallel data munging |
@@ -121,6 +135,8 @@ added, please feel free to submit a pull request.
 
 ### Exploratory Data Analysis (EDA)
 
+([Index](#index))
+
 | Package | Description |
 |----|----|
 | [pyskim](https://github.com/kpj/pyskim) | a package for EDA at the commandline |
@@ -128,6 +144,8 @@ added, please feel free to submit a pull request.
 | [missingno](https://github.com/ResidentMario/missingno) | A small toolset of flexible and easy-to-use missing data visualizations and utilities |
 
 ### Math, Statistics, ML, & Data Analytics
+
+([Index](#index))
 
 | Module | Submodule | Description |
 |----|----|----|
@@ -149,7 +167,9 @@ added, please feel free to submit a pull request.
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/) |  | A Python library for off-line change point detection |
 | [spectrum](https://pyspectrum.readthedocs.io/en/latest/#) |  | is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis |
 
-## Time Series
+### Time Series
+
+([Index](#index))
 
 | Module | Submodule | Descriptions |
 |----|----|----|
@@ -158,6 +178,8 @@ added, please feel free to submit a pull request.
 | [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html) |  | Scalable machine learning for time series forecasting |
 
 ### General Visualization & Reporting
+
+([Index](#index))
 
 | Module | Description |
 |----|----|
@@ -177,6 +199,8 @@ added, please feel free to submit a pull request.
 
 ### Graph, Diagrams and Technical Drawing Analysis & Visualization
 
+([Index](#index))
+
 | Modules | Description |
 |----|----|
 | [mermaid-py](https://github.com/ouhammmourachid/mermaid-py) | an interface for the famous [mermaid-js](https://mermaid.js.org/) library that uses scripts to create diagrams |
@@ -188,6 +212,8 @@ added, please feel free to submit a pull request.
 | [diagrams](https://diagrams.mingrammer.com/) | Draw the cloud system architecture in Python code. |
 
 ### Image & Video
+
+([Index](#index))
 
 | Modules | Description |
 |----|----|
