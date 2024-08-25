@@ -18,27 +18,27 @@ added, please feel free to submit a pull request.
 
 1.  [Programming Modules](#programming-modules)
 2.  [Data compression](#data-compression)
-3.  [Performance Management &
-    Profiling](#performance-management-profiling)
+3.  [Performance Management and
+    Profiling](#performance-management-and-profiling)
 4.  [Quality Control](#quality-control)
-5.  [System & Environment](#system-environment)
+5.  [System and Environment](#system-and-environment)
 6.  [Data Input and Output](#data-input-and-output)
-7.  [Data Munging & Validation](#data-munging-validation)
+7.  [Data Munging and Validation](#data-munging-and-validation)
 8.  [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-9.  [Math, Statistics, ML, & Data
-    Analytics](#math-statistics-ml-data-analytics)
+9.  [Math, Statistics, ML, and Data
+    Analytics](#math-statistics-ml-and-data-analytics)
 10. [Time Series](#time-series)
-11. [General Visualization &
-    Reporting](#general-visualization-reporting)
-12. [Graph, Diagrams and Technical Drawing Analysis &
-    Visualization](#graph-diagrams-and-technical-drawing-analysis-visualization)
-13. [Image & Video](#image-video)
+11. [General Visualization and
+    Reporting](#general-visualization-and-reporting)
+12. [Graph, Diagrams and Technical Drawing Analysis and
+    Visualization](#graph-diagrams-and-technical-drawing-analysis-and-visualization)
+13. [Image and Video](#image-and-video)
 
 ## Environment Documentation
 
 ### Programming Modules
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Description |
 |----|----|
@@ -53,7 +53,7 @@ added, please feel free to submit a pull request.
 
 ### Data compression
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Description |
 |----|----|
@@ -64,9 +64,9 @@ added, please feel free to submit a pull request.
 | [zipfile](https://docs.python.org/3/library/zipfile.html#module-zipfile)\* | Provides tools to create, read, write, append, and list a ZIP file. |
 | [tarfile](https://docs.python.org/3/library/tarfile.html#module-tarfile)\* | Makes it possible to read and write tar archives, including those using gzip, bz2 and lzma compression. |
 
-### Performance Management & Profiling
+### Performance Management and Profiling
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Description |
 |----|----|
@@ -77,16 +77,16 @@ added, please feel free to submit a pull request.
 
 ### Quality Control
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Description |
 |----|----|
 | [doctest](https://docs.python.org/3/library/doctest.html#module-doctest) | Searches for pieces of text that look like interactive Python sessions, and then executes those sessions to verify that they work exactly as shown. Form of unit testing in docstrings |
 | [unittest](https://docs.python.org/3/library/unittest.html#module-unittest) | Unit testing framework |
 
-### System & Environment
+### System and Environment
 
-([Index](#index))
+[Return to Index](#index)
 
 | Package | Description |
 |----|----|
@@ -103,7 +103,7 @@ added, please feel free to submit a pull request.
 
 ### Data Input and Output
 
-([Index](#index))
+[Return to Index](#index)
 
 | Package | Description |
 |----|----|
@@ -119,9 +119,9 @@ added, please feel free to submit a pull request.
 | [faker](https://faker.readthedocs.io/en/master/#how-to-use-with-factory-boy) | Generates fake data |
 | [holidays](https://python-holidays.readthedocs.io/en/latest/) | A fast, efficient Python library for generating country- and subdivision- (e.g. state or province) specific sets of government-designated holidays on the fly. |
 
-### Data Munging & Validation
+### Data Munging and Validation
 
-([Index](#index))
+[Return to Index](#index)
 
 | Package | Description |
 |----|----|
@@ -135,7 +135,7 @@ added, please feel free to submit a pull request.
 
 ### Exploratory Data Analysis (EDA)
 
-([Index](#index))
+[Return to Index](#index)
 
 | Package | Description |
 |----|----|
@@ -143,9 +143,9 @@ added, please feel free to submit a pull request.
 | [sweetviz](https://github.com/fbdesignpro/sweetviz) | Open-source Python library that generates beautiful, high-density visualizations to kickstart EDA. |
 | [missingno](https://github.com/ResidentMario/missingno) | A small toolset of flexible and easy-to-use missing data visualizations and utilities |
 
-### Math, Statistics, ML, & Data Analytics
+### Math, Statistics, ML, and Data Analytics
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Submodule | Description |
 |----|----|----|
@@ -169,7 +169,7 @@ added, please feel free to submit a pull request.
 
 ### Time Series
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Submodule | Descriptions |
 |----|----|----|
@@ -177,9 +177,9 @@ added, please feel free to submit a pull request.
 | [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html) |  | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
 | [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html) |  | Scalable machine learning for time series forecasting |
 
-### General Visualization & Reporting
+### General Visualization and Reporting
 
-([Index](#index))
+[Return to Index](#index)
 
 | Module | Description |
 |----|----|
@@ -197,9 +197,9 @@ added, please feel free to submit a pull request.
 | [wordcloud](https://github.com/amueller/word_cloud) | A little word cloud generator in Python. |
 | [yellowbrick](https://www.scikit-yb.org/en/latest/index.html#) | Machine Learning Visualization: Extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib. |
 
-### Graph, Diagrams and Technical Drawing Analysis & Visualization
+### Graph, Diagrams and Technical Drawing Analysis and Visualization
 
-([Index](#index))
+[Return to Index](#index)
 
 | Modules | Description |
 |----|----|
@@ -211,9 +211,9 @@ added, please feel free to submit a pull request.
 | [graphviz](https://github.com/xflr6/graphviz) | Facilitates the creation and rendering of graph descriptions in the [DOT](https://www.graphviz.org/doc/info/lang.html) language of the [Graphviz](https://www.graphviz.org/) graph drawing software |
 | [diagrams](https://diagrams.mingrammer.com/) | Draw the cloud system architecture in Python code. |
 
-### Image & Video
+### Image and Video
 
-([Index](#index))
+[Return to Index](#index)
 
 | Modules | Description |
 |----|----|
