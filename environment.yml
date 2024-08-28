@@ -111,5 +111,6 @@ dependencies:
     - hiveplotlib
     - hiveplotlib[datashader]
     - yellowbrick
+    - d3blocks
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
