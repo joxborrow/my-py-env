@@ -70,6 +70,7 @@ dependencies:
   - altair-all
   - holoviews
   - bokeh
+  - plotly
   - quarto
   - matplotlib
   - itables
