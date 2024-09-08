@@ -188,6 +188,8 @@ This "manual" is organized by topic. If you feel something should be added, plea
 | [colorcet](https://colorcet.holoviz.org/)                                    | A collection of perceptually accurate 256-color colormaps for use with Python plotting programs.                                                              |
 | [wordcloud](https://github.com/amueller/word_cloud)                          | A little word cloud generator in Python.                                                                                                                      |
 | [yellowbrick](https://www.scikit-yb.org/en/latest/index.html#)               | Machine Learning Visualization: Extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib. |
+| [d3block](https://d3blocks.github.io/d3blocks/pages/html/index.html)         | A framework to create stand-alone, interactive charts.                                                                                                        |
+| [plotly](https://plotly.com/python/)                                         | Graphing library makes interactive, publication-quality graphs.                                                                                               |
 
 ### Graph, Diagrams and Technical Drawing Analysis and Visualization {#graph-diagrams-and-technical-drawing-analysis-visualization}
 
