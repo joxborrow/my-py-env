@@ -27,7 +27,7 @@ dependencies:
   #################################################
   # Data Acquisition
   #################################################
-  - requests
+  - httpx
   - pyodbc
   - sqlalchemy
   - faker
