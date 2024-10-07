@@ -107,7 +107,7 @@ added, please feel free to submit a pull request.
 
 | Package | Description |
 |----|----|
-| [httpx](https://www.python-httpx.org/) | a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.1 and HTTP/2. |
+| [httpx](https://www.python-httpx.org/) | a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.1 and HTTP/2 |
 | [urllib.request](https://docs.python.org/3/library/urllib.request.html#module-urllib.request)\* | Defines functions and classes which help in opening URLs |
 | [pyodbc](https://github.com/mkleehammer/pyodbc/wiki) | an open source Python module that makes accessing ODBC databases simple |
 | [sqlalchemy](https://docs.sqlalchemy.org/en/20/) | Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL |
