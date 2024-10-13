@@ -39,6 +39,7 @@ dependencies:
   #################################################
   # ML, Modeling, & Analytics
   #################################################
+  - pyclustering
   - statsmodels
   - scipy
   - patsy
@@ -54,6 +55,7 @@ dependencies:
   #################################################
   # Forecasting
   #################################################
+
   - sktime
   - statsforecast
   - mlforecast
