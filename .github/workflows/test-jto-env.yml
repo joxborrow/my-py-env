@@ -1,4 +1,4 @@
-name: Test my-py-env on Mac, Linux, Windows
+name: Test my-py-env on Linux and Windows
 
 on:
   workflow_dispatch:
