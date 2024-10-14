@@ -200,6 +200,7 @@ added, please feel free to submit a pull request.
 | [yellowbrick](https://www.scikit-yb.org/en/latest/index.html#) | Machine Learning Visualization: Extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib. |
 | [d3block](https://d3blocks.github.io/d3blocks/pages/html/index.html) | A framework to create stand-alone, interactive charts. |
 | [plotly](https://plotly.com/python/) | Graphing library makes interactive, publication-quality graphs. |
+| [folium](https://python-visualization.github.io/folium/latest/) | Geovisualization using Leaflet |
 
 ### Graph, Diagrams and Technical Drawing Analysis and Visualization
 
