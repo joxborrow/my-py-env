@@ -162,6 +162,8 @@ added, please feel free to submit a pull request.
 | [sklearn](https://scikit-learn.org/stable/user_guide.html) |  | Simple and efficient tools for predictive data analysis, including ML |
 |  | [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) | Provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators. |
 |  | [sklearn.feature_selection](https://scikit-learn.org/stable/modules/feature_selection.html) | Used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets |
+|  | [sklearn.clustering](https://scikit-learn.org/stable/modules/clustering.html) | Module for the clustering of unlabeled data |
+| [pyclustering](https://pyclustering.github.io/docs/0.10.1/html/index.html) |  | An open source data mining library written in Python and C++ that provides a wide range of clustering algorithms and methods |
 | [nltk](https://www.nltk.org/) |  | A leading platform for building Python programs to work with human language data |
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/) |  | Open source python library for economic modeling |
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/) |  | A Python library for off-line change point detection |
