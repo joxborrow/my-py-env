@@ -45,6 +45,7 @@ dependencies:
   - patsy
   - numpy
   - scikit-learn
+  - scikit-learn-extra
   - python-igraph
   - networkx
   - nltk
