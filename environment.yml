@@ -111,6 +111,7 @@ dependencies:
     - ibis-framework[duckdb]
     - ibis-framework[snowflake]
     - ibis-framework[polars]
+    - permetrics
     - great_tables
     - hiveplotlib
     - hiveplotlib[datashader]

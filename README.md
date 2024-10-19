@@ -139,7 +139,7 @@ added, please feel free to submit a pull request.
 
 | Package | Description |
 |----|----|
-| [pyskim](https://github.com/kpj/pyskim) | a package for EDA at the commandline |
+| [pyskim](https://github.com/kpj/pyskim) | A package for EDA at the commandline |
 | [sweetviz](https://github.com/fbdesignpro/sweetviz) | Open-source Python library that generates beautiful, high-density visualizations to kickstart EDA. |
 | [missingno](https://github.com/ResidentMario/missingno) | A small toolset of flexible and easy-to-use missing data visualizations and utilities |
 
@@ -156,13 +156,16 @@ added, please feel free to submit a pull request.
 | [statsmodels](https://www.statsmodels.org/stable/index.html) |  | Estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration |
 | [scipy](https://docs.scipy.org/doc/scipy/) |  | SciPy is a collection of mathematical algorithms and convenience functions |
 |  | [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statsrefmanual) | This module contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation, quasi-Monte Carlo functionality, and more. This is a supplement to the base packages [statistics](https://docs.python.org/3/library/statistics.html#module-statistics). |
-|  | [scipy.linalg](https://docs.scipy.org/doc/scipy/reference/linalg.html#module-scipy.linalg) | linear algebra library |
+|  | [scipy.linalg](https://docs.scipy.org/doc/scipy/reference/linalg.html#module-scipy.linalg) | Linear algebra library |
+|  | [scipy.optimize](https://docs.scipy.org/doc/scipy/tutorial/optimize.html) | Provides optimization algorithms, like [minimize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html#scipy.optimize.minimize). |
 | [patsy](https://patsy.readthedocs.io/en/latest/) |  | Package for describing statistical models and building design matrices |
 | [numpy](https://numpy.org/doc/) |  | NumPy is the fundamental package for scientific computing in Python |
 | [sklearn](https://scikit-learn.org/stable/user_guide.html) |  | Simple and efficient tools for predictive data analysis, including ML |
+|  | [sklearn.datasets](https://scikit-learn.org/stable/datasets.html) | Contains small toy datasets and dataset generators |
 |  | [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) | Provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators. |
 |  | [sklearn.feature_selection](https://scikit-learn.org/stable/modules/feature_selection.html) | Used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets |
 |  | [sklearn.clustering](https://scikit-learn.org/stable/modules/clustering.html) | Module for the clustering of unlabeled data |
+|  | [sklearn.linear_model](https://scikit-learn.org/stable/modules/linear_model.html) | methods intended for regression where the target is a linear combination of the of features. |
 | [pyclustering](https://pyclustering.github.io/docs/0.10.1/html/index.html) |  | An open source data mining library written in Python and C++ that provides a wide range of clustering algorithms and methods |
 | [nltk](https://www.nltk.org/) |  | A leading platform for building Python programs to work with human language data |
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/) |  | Open source python library for economic modeling |
