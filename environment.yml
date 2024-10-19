@@ -63,7 +63,7 @@ dependencies:
   # These packages cause the build to hang.
   # Try in the future.
   #- neuralforecast
-  #- hierarchicalforecast
+  - hierarchicalforecast
   #- utilsforecast
   #- datasetsforecast
 
