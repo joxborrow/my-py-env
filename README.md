@@ -171,6 +171,7 @@ added, please feel free to submit a pull request.
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/) |  | Open source python library for economic modeling |
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/) |  | A Python library for off-line change point detection |
 | [spectrum](https://pyspectrum.readthedocs.io/en/latest/#) |  | is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis |
+| [permetrics](https://permetrics.readthedocs.io/en/latest/index.html#) |  | LIbrary for performance metrics of machine learning models such as regression, classification, clustering, etc. |
 
 ### Time Series
 
