@@ -65,7 +65,7 @@ dependencies:
   #- neuralforecast
   - hierarchicalforecast
   - utilsforecast
-  #- datasetsforecast
+  - datasetsforecast
 
   #################################################
   # Visualization & Reporting
