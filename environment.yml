@@ -62,10 +62,9 @@ dependencies:
   - mlforecast
   # These packages cause the build to hang.
   # Try in the future.
-  #- neuralforecast
+  - neuralforecast
   - hierarchicalforecast
   - utilsforecast
-  - datasetsforecast
 
   #################################################
   # Visualization & Reporting
