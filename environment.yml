@@ -64,7 +64,7 @@ dependencies:
   # Try in the future.
   #- neuralforecast
   - hierarchicalforecast
-  #- utilsforecast
+  - utilsforecast
   #- datasetsforecast
 
   #################################################
