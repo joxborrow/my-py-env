@@ -169,11 +169,14 @@ This "manual" is organized by topic. If you feel something should be added, plea
 
 [Return to Index](#index)
 
-| Module                                                                  | Submodule | Descriptions                                                                                                     |
+| Module                                                                                                | Submodule | Descriptions                                                                                                                                                                 |
 |--------------------|-------------------|---------------------------------|
-| [sktime](https://www.sktime.net/en/latest/index.html)                   |           | A unified framework for machine learning with time series                                                        |
-| [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html) |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability |
-| [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)       |           | Scalable machine learning for time series forecasting                                                            |
+| [sktime](https://www.sktime.net/en/latest/index.html)                                                 |           | A unified framework for machine learning with time series                                                                                                                    |
+| [statsforecast](https://nixtlaverse.nixtla.io/statsforecast/index.html)                               |           | A collection of popular univariate time series forecasting models optimized for high performance and scalability. Part of the [nixtlaverse](https://nixtlaverse.nixtla.io/). |
+| [mlforecast](https://nixtlaverse.nixtla.io/mlforecast/index.html)                                     |           | Scalable machine learning for time series forecasting. Part of the [nixtlaverse](https://nixtlaverse.nixtla.io/).                                                            |
+| [neuralforecast](https://nixtlaverse.nixtla.io/neuralforecast/docs/getting-started/introduction.html) |           | A collection of neural forecasting methods focused on usability and robustness. Part of the [nixtlaverse](https://nixtlaverse.nixtla.io/).                                   |
+| [hierarchicalforecast](https://nixtlaverse.nixtla.io/hierarchicalforecast/index.html)                 |           | A collection of reconciliation methods for heirarchical forecasting problems. Part of the [nixtlaverse](https://nixtlaverse.nixtla.io/).                                     |
+| [utilsforecast](https://nixtlaverse.nixtla.io/utilsforecast/index.html)                               |           | A collection of forecasting utilities. Part of the [nixtlaverse](https://nixtlaverse.nixtla.io/).                                                                            |
 
 ### General Visualization and Reporting {#general-visualization-reporting}
 
