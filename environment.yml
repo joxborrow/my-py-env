@@ -94,6 +94,7 @@ dependencies:
   - openpyxl
   - sympy
   - ffmpeg-python
+  - pyod
   #############################################
   - pip:
     - pyskim
