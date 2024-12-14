@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   #############################################
-  # System & Environment ######################
+  # System & Environment
   #############################################
   - pip
   - jupyter
@@ -17,7 +17,7 @@ dependencies:
   - pycairo
   - numba
   #############################################
-  # Data Munging & Validation #################
+  # Data Munging & Validation
   #############################################
   - pandas
   - python-duckdb
@@ -25,7 +25,7 @@ dependencies:
   - pandera
   - miceforest
   #############################################
-  # Data Acquisition ##########################
+  # Data Acquisition
   #############################################
   - httpx
   - pyodbc
@@ -33,11 +33,11 @@ dependencies:
   - faker
   - holidays
   #############################################
-  # Exploratory Data Analysis #################
+  # Exploratory Data Analysis
   #############################################
   - sweetviz
   #############################################
-  # ML, Modeling, & Analytics #################
+  # ML, Modeling, & Analytics
   #############################################
   - pyclustering
   - pyod
@@ -66,7 +66,7 @@ dependencies:
   - hierarchicalforecast
   - utilsforecast
  #############################################
- # Visualization & Reporting #################
+ # Visualization & Reporting
  #############################################
   - altair-all
   - holoviews
@@ -84,16 +84,19 @@ dependencies:
   - wordcloud
   - folium
   #############################################
-# GUIs and Webapps #############################################
+  # GUIs and Webapps
+  #############################################
   - streamlit
   #############################################
-# Diagrams, etc. #############################################
+  # Diagrams, etc.
+  #############################################
   - mermaid-py
   - pygraphviz
   - pyvis
   - diagrams
   #############################################
-# Misc #############################################
+  # Misc
+  #############################################
   - pillow
   - ffmpeg-python
   - xlsxwriter
