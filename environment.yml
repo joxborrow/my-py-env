@@ -3,7 +3,8 @@ channels:
   - conda-forge
 dependencies:
   #############################################
-# System & Environment #############################################
+  # System & Environment ######################
+  #############################################
   - pip
   - jupyter
   - python-dotenv
@@ -16,24 +17,28 @@ dependencies:
   - pycairo
   - numba
   #############################################
-# Data Munging & Validation #############################################
+  # Data Munging & Validation #################
+  #############################################
   - pandas
   - python-duckdb
   - snowflake-snowpark-python
   - pandera
   - miceforest
   #############################################
-# Data Acquisition #############################################
+  # Data Acquisition ##########################
+  #############################################
   - httpx
   - pyodbc
   - sqlalchemy
   - faker
   - holidays
   #############################################
-# Exploratory Data Analysis #############################################
+  # Exploratory Data Analysis #################
+  #############################################
   - sweetviz
   #############################################
-# ML, Modeling, & Analytics #############################################
+  # ML, Modeling, & Analytics #################
+  #############################################
   - pyclustering
   - pyod
   - statsmodels
@@ -50,8 +55,8 @@ dependencies:
   - ruptures
   - spectrum
  #############################################
-# Forecasting
-#############################################
+ # Forecasting
+ #############################################
   - sktime
   - statsforecast
   - mlforecast
@@ -61,7 +66,8 @@ dependencies:
   - hierarchicalforecast
   - utilsforecast
  #############################################
-# Visualization & Reporting #############################################
+ # Visualization & Reporting #################
+ #############################################
   - altair-all
   - holoviews
   - bokeh
@@ -92,6 +98,7 @@ dependencies:
   - ffmpeg-python
   - xlsxwriter
   - openpyxl
+  - xlrd
   - sympy
   - ffmpeg-python
   - pyod
