@@ -115,6 +115,7 @@ added, please feel free to submit a pull request.
 | [pyarrow](https://arrow.apache.org/docs/python/index.html) | A cross-language development platform for in-memory analytics |
 | [xlsxwriter](https://xlsxwriter.readthedocs.io/) | Module that can be used to write text, numbers, formulas and hyperlinks to multiple worksheets in an Excel 2007+ XLSX file. It supports features such as formatting and much more. |
 | [openpyxl](https://openpyxl.readthedocs.io/en/stable/index.html) | Library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files. |
+| [xlrd](https://xlrd.readthedocs.io/en/latest/) | a library for reading data and formatting information from Excel files in the historical xls format. |
 | [json](https://docs.python.org/3/library/json.html#module-json)\* | manage JSON files |
 | [faker](https://faker.readthedocs.io/en/master/#how-to-use-with-factory-boy) | Generates fake data |
 | [holidays](https://python-holidays.readthedocs.io/en/latest/) | A fast, efficient Python library for generating country- and subdivision- (e.g. state or province) specific sets of government-designated holidays on the fly. |
@@ -163,11 +164,23 @@ added, please feel free to submit a pull request.
 | [sklearn](https://scikit-learn.org/stable/user_guide.html) |  | Simple and efficient tools for predictive data analysis, including ML |
 |  | [sklearn.datasets](https://scikit-learn.org/stable/datasets.html) | Contains small toy datasets and dataset generators |
 |  | [sklearn.preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) | Provides several common utility functions and transformer classes to change raw feature vectors into a representation that is more suitable for the downstream estimators. |
+|  | [sklearn.impute](https://scikit-learn.org/stable/api/sklearn.impute.html#) | Transformers for missing value imputation. |
+|  | [sklearn.decomposition](https://scikit-learn.org/stable/api/sklearn.decomposition.html#) | Matrix decomposition algorithms. |
+|  | [sklearn.compose](https://scikit-learn.org/stable/api/sklearn.compose.html#) | Meta-estimators for building composite models with transformers. |
 |  | [sklearn.feature_selection](https://scikit-learn.org/stable/modules/feature_selection.html) | Used for feature selection/dimensionality reduction on sample sets, either to improve estimators’ accuracy scores or to boost their performance on very high-dimensional datasets |
+|  | [sklearn.model_selection](https://scikit-learn.org/stable/api/sklearn.model_selection.html) | Tools for model selection, such as cross validation and hyper-parameter tuning |
+|  | [sklearn.pipeline](https://scikit-learn.org/stable/api/sklearn.pipeline.html) | Utilities to build a composite estimator as a chain of transforms and estimators |
 |  | [sklearn.clustering](https://scikit-learn.org/stable/modules/clustering.html) | Module for the clustering of unlabeled data |
+|  | [sklearn.neighbors](https://scikit-learn.org/stable/api/sklearn.neighbors.html#module-sklearn.neighbors) | Functionality for unsupervised and supervised neighbors-based learning methods. |
 |  | [sklearn.linear_model](https://scikit-learn.org/stable/modules/linear_model.html) | methods intended for regression where the target is a linear combination of the of features. |
+|  | [sklearn.tree](https://scikit-learn.org/stable/api/sklearn.tree.html#) | Decision tree based models for classification and regression. |
+|  | sklearn.svm | Support vector machine algorithms. |
+|  | [sklearn.multiclass](https://scikit-learn.org/stable/api/sklearn.multiclass.html#) | Multiclass learning algorithms. |
+|  | [sklearn.inspection](https://scikit-learn.org/stable/api/sklearn.inspection.html#) | Tools for model inspection. |
+|  | [sklearn.metrics](https://scikit-learn.org/stable/api/sklearn.metrics.html#) | Score functions, performance metrics, pairwise metrics and distance computations. |
 | [pyclustering](https://pyclustering.github.io/docs/0.10.1/html/index.html) |  | An open source data mining library written in Python and C++ that provides a wide range of clustering algorithms and methods |
 | [nltk](https://www.nltk.org/) |  | A leading platform for building Python programs to work with human language data |
+| [pyod](https://pyod.readthedocs.io/en/latest/index.html) |  | A comprehensive but easy-to-use Python library for detecting anomalies in multivariate data. |
 | [quantecon](https://quanteconpy.readthedocs.io/en/latest/) |  | Open source python library for economic modeling |
 | [ruptures](https://centre-borelli.github.io/ruptures-docs/) |  | A Python library for off-line change point detection |
 | [spectrum](https://pyspectrum.readthedocs.io/en/latest/#) |  | is a Python library that contains tools to estimate Power Spectral Densities based on Fourier transform, Parametric methods or eigenvalues analysis |
