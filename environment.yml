@@ -91,7 +91,7 @@ dependencies:
   # Diagrams, etc.
   #############################################
   - mermaid-py
-  - graphviz
+  - python-graphviz
   - pyvis
   - diagrams
   #############################################
