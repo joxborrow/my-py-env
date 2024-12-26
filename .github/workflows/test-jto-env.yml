@@ -9,10 +9,10 @@ on:
 jobs:
   runtests:
     name: Ex10 (${{ matrix.os }}, Miniforge)
-    runs-on: ${{ matrix.os }}-latest
+    runs-on: ${{ matrix.os }}
     strategy:
       matrix:
-        os: ["ubuntu", "windows"]
+        os: ["ubuntu-20.04", "windows-latest"]
     defaults:
       run:
         shell: bash -l {0}
