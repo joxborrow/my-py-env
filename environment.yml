@@ -54,6 +54,9 @@ dependencies:
   - quantecon
   - ruptures
   - spectrum
+  - tensorflow
+  - keras
+  - scikeras
  #############################################
  # Forecasting
  #############################################
