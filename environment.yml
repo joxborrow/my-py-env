@@ -56,7 +56,6 @@ dependencies:
   - spectrum
   - tensorflow
   - keras
-  - scikeras
  #############################################
  # Forecasting
  #############################################
@@ -122,5 +121,6 @@ dependencies:
     - hiveplotlib[datashader]
     - yellowbrick
     - d3blocks
+    - scikeras
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
