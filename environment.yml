@@ -47,7 +47,7 @@ dependencies:
   - numpy
   - scikit-learn
   - scikit-learn-extra
-#  - imblearn
+  - imbalanced-learn
   - python-igraph
   - networkx
   - nltk
