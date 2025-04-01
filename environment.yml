@@ -122,5 +122,6 @@ dependencies:
     - yellowbrick
     - d3blocks
     - scikeras
+    - neuralprophet[live]
 
 prefix: /home/jonathan/miniforge3/envs/my-py-env
